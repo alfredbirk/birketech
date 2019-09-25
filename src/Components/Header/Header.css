@@ -1,0 +1,19 @@
+.header-container {
+    background-image: linear-gradient(rgba(173, 216, 230, 0.801),rgba(255, 166, 0, 0.795)), url('./Banner.jpg');
+    color: white;
+    height: 95vh;
+    background-size: 100% auto;
+    background-position: top;
+    clip-path: polygon(0 0, 100% 0, 100% 92%, 0% 100%);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-text {
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 15px;
+    font-weight: 400;
+}
