@@ -1,0 +1,28 @@
+.master {
+    height: 100vh;
+}
+
+.container {
+    margin-top: 200px;
+}
+
+.container > * {
+    margin: 1rem 0;
+}
+
+button {
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+}
+
+.search-bar {
+    margin-bottom: 30px;
+}
+
+.search-bar > input {
+    width: 500px;
+    height: 25px;
+    border: 2px solid light-gray;
+    border-radius: 20px;
+}

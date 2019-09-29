@@ -1,12 +1,14 @@
 import React from 'react';
 import './App.css';
 import Header from './Components/Header/Header';
+import Google from './Google'
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <p>test</p>
+      <Google />
+      {/* <Header/>
+      <p>test</p> */}
     </div>
   );
 }
