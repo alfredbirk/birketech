@@ -1,0 +1,12 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+    margin: 50px 200px;
+}
+
+.project {
+    height: 300px;
+    background-color: white;
+    border: 3px solid gray;
+}
