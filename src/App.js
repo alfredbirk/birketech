@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <p>real3c</p>
+      <p>real3c2</p>
     </div>
   );
 }
