@@ -7,6 +7,6 @@
 
 .project {
     height: 300px;
-    background-color: white;
+    background-color: rgb(255, 248, 232);
     border: 3px solid gray;
 }
