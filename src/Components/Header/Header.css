@@ -1,5 +1,5 @@
 .header-container {
-    background-image: linear-gradient(rgba(173, 216, 230, 0.5),rgba(255, 166, 0, 0.4)), url('./Banner.jpg');
+    background-image: linear-gradient(rgba(173, 216, 230, 0.5),rgba(255, 166, 0, 0.4)), url('./banner.jpg');
     color: white;
     background-size: auto 100%;
     background-position: center;
