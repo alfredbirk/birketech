@@ -11,7 +11,7 @@ import TimelineOppositeContent from '@material-ui/lab/TimelineOppositeContent';
 import TimelineDot from '@material-ui/lab/TimelineDot';
 import Typography from '@material-ui/core/Typography';
 
-import KolonialLogo from '../../Assets/Kolonial.png';
+// import KolonialLogo from '../../Assets/Kolonial.png';
 import TeliaLogo from '../../Assets/Telia.png';
 import TelenorLogo from '../../Assets/Telenor.png';
 import FinnLogo from '../../Assets/Finn.png';
@@ -23,7 +23,7 @@ const Timeline2 = () => {
             {/* <h1>Professional experience</h1> */}
             <div>
             <Timeline>
-                <TimelineItem>
+                {/* <TimelineItem>
                   <TimelineOppositeContent>
                     <Typography variant="body2" color="textSecondary">
                       jan. 2020 - present
@@ -41,7 +41,7 @@ const Timeline2 = () => {
                         Kolonial
                       </Typography>
                   </TimelineContent>
-                </TimelineItem>
+                </TimelineItem> */}
                 <TimelineItem>
                   <TimelineOppositeContent>
                     <Typography variant="body2" color="textSecondary">
