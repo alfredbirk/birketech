@@ -11,7 +11,7 @@ import "./About.css";
                 <img className="about__image" src={avatar} alt="Avatar" />
                 <div>
                     <h2>Hi, I'm Alfred Birketvedt</h2>
-                    <p>I'm a passionate full-stack developer</p>
+                    <p>I'm a passionate full-stack developer currently working at Netlight.</p>
                 </div>
             </div>
         </div>

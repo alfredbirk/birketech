@@ -1,0 +1,42 @@
+.timeline {
+    display: flex;
+    justify-content: center;
+}
+
+.timeline__logo {
+    width: 24px;
+    height: 24px;
+    color: orange !important;
+}
+
+.timeline__logo--kolonial {
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(208deg) brightness(107%) contrast(103%);
+}
+
+.timeline__logo--kolonial-container .MuiTimelineDot-defaultPrimary {
+    background-color: orange !important;
+}
+
+.timeline__logo--telia-container .MuiTimelineDot-defaultPrimary {
+    background-color: #990ae3 !important;
+}
+
+.timeline__logo--telenor-container .MuiTimelineDot-defaultPrimary {
+    background-color: #00ACE7 !important;
+}
+
+.timeline__logo--finn-container .MuiTimelineDot-defaultPrimary {
+    background-color: #06BEFB !important;
+}
+
+.timeline__logo--telia {
+    background-color: #990ae3 !important;
+}
+
+.timeline__logo--telenor {
+    background-color: #00ACE7 !important;
+}
+
+.timeline__logo--finn {
+    background-color: #06BEFB !important;
+}
