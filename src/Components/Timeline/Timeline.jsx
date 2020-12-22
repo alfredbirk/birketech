@@ -29,7 +29,7 @@ const Timeline2 = () => {
                   <TimelineItem>
                     <TimelineOppositeContent>
                       <Typography variant="body2" color="textSecondary">
-                        jan. 2020 - present
+                        jan. 2021 - present
                       </Typography>
                     </TimelineOppositeContent>
                     <TimelineSeparator className="timeline__logo--kolonial-container">
