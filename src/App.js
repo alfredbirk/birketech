@@ -9,10 +9,10 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <About />
-      <Timeline2 />
+      {/* <About />
+      <Timeline2 /> */}
       {/* <Projects/> */}
-      <a href="https://eager-ritchie-5eba2d.netlify.app/">Snake</a>
+      {/* <a href="https://eager-ritchie-5eba2d.netlify.app/">Snake</a> */}
     </div>
   );
 }
